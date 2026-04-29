@@ -1,0 +1,11 @@
+{
+  "name": "shopbot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "qrcode": "^1.5.3",
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3"
+  }
+}
